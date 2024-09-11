@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YUHAN\\Downloads\\\uC11C\uBC84\uD300\\--main\\multi-tetris-server-main\\TetrisServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D1B0B6-9D52-4BD4-8E8B-147680816335}|..\\DummyClient\\DummyClient.vcxproj|C:\\Users\\YUHAN\\Downloads\\\uC11C\uBC84\uD300\\--main\\multi-tetris-server-main\\DummyClient\\DummyClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FE4F47-F9B1-4CAD-832E-320BA907BAA2}|TetrisServer.vcxproj|C:\\Users\\YUHAN\\Downloads\\\uC11C\uBC84\uD300\\--main\\multi-tetris-server-main\\TetrisServer\\TetrisServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02FE4F47-F9B1-4CAD-832E-320BA907BAA2}|TetrisServer.vcxproj|solutionrelative:TetrisServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DummyClient.cpp",
+              "DocumentMoniker": "C:\\Users\\YUHAN\\Downloads\\\uC11C\uBC84\uD300\\--main\\multi-tetris-server-main\\DummyClient\\DummyClient.cpp",
+              "RelativeDocumentMoniker": "..\\DummyClient\\DummyClient.cpp",
+              "ToolTip": "C:\\Users\\YUHAN\\Downloads\\\uC11C\uBC84\uD300\\--main\\multi-tetris-server-main\\DummyClient\\DummyClient.cpp",
+              "RelativeToolTip": "..\\DummyClient\\DummyClient.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T01:05:35.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TetrisServer.cpp",
+              "DocumentMoniker": "C:\\Users\\YUHAN\\Downloads\\\uC11C\uBC84\uD300\\--main\\multi-tetris-server-main\\TetrisServer\\TetrisServer.cpp",
+              "RelativeDocumentMoniker": "TetrisServer.cpp",
+              "ToolTip": "C:\\Users\\YUHAN\\Downloads\\\uC11C\uBC84\uD300\\--main\\multi-tetris-server-main\\TetrisServer\\TetrisServer.cpp",
+              "RelativeToolTip": "TetrisServer.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvyoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T01:05:30.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
